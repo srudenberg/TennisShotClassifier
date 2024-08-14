@@ -14,3 +14,5 @@ Code:
 DataPrep.ipynb contains processing 
 Models.ipynb contains CNN model 
 3Dcnn.ipynb contains attempt at 3DCNN model 
+
+Please see Report.pdf for more details. 
